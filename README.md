@@ -1,0 +1,8 @@
+- Yılan gittiği yönün tersine gidemiyor olmalı. (Örn: Sağa doğru giderken doğrudan sola dönememeli.)
+- Yılan yem yiyebilecek ve yem yedikçe boyu uzayacak.
+-  Sınırlara çarpınca oyun bitmeli ve oyunun bittiğine dair bilgilendirme ekranı skor ile birlikte çıkmalı.
+- Kuyruğa çarpınca oyun bitmeli ve oyunun bittiğine dair bilgilendirme ekranı skor ile birlikte çıkmalı.
+- Sınırlara çarpınca oyunun bitmesi opsiyonel olmalı.
+- Kuyruğa çarpınca oyunun bitmesi opsiyonel olmalı.
+- Oyuna skor hesaplaması eklenecek.Her 10 saniyede bir skor 1, her yem yendiğinde skor 2 artacak.
+- Skor değişikliklerinin CSS animasyonları ile gösterildiği bir ekran eklenecek.
